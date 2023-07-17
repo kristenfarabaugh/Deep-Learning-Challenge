@@ -14,7 +14,7 @@ The purpose of this analysis is to build a machine learning model to help a comp
 * How many neurons, layers, and activation functions did you select for your neural network model, and why? 12 neurons (as increasing neurons throughout the trials lead to slight improvements in accuracy), 3 layers (as adding an additional layer also helped slightly improve accuracy) and the Relu activation function (as it is most commonly used in deep learning).
 * Were you able to achieve the target model performance? After turning the model (by adding additional neurons, changing the activation function, and adding an additional layer) I was not able to achieve the target model performance (where accuracy >= 75%)
 
-![(img width="620" alt="image" src="https://github.com/kristenfarabaugh/Deep-Learning-Challenge/assets/123901701/edabc39f-81bb-4eca-88ac-89a86115b17e">)
+!(<img width="620" alt="image" src="https://github.com/kristenfarabaugh/Deep-Learning-Challenge/assets/123901701/7afc7549-348b-4fa7-9bdb-5cdf075cf1e5">)
 
 * What steps did you take in your attempts to increase model performance? I added additional neurons, changed the activation function and added an additional layer in three attempts to increase model performance vs the original pass.
 
